@@ -1,0 +1,16 @@
+.container main {
+  margin-top: 70px;
+}
+
+.align-center {
+  margin: 0 auto;
+  text-align: center;
+}
+
+.btn-add .btn {
+  width: 200px;
+}
+
+.datatable {
+  width: 100%;
+}
