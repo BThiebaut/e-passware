@@ -38,7 +38,8 @@ $ npm start
   <script>require('electron-connect').client.create()</script>
   <!-- end:build -->
   ```
-* Jouer la commande `$ electron-packager <sourcedir> <appname> --platform=<platform> --arch=<arch> [optional flags...]`
-Exemple : `electron-packager . --all` buildera pour toutes les plate-formes disponibles (linux, mac, windows, en x32 et x64)
+* Lancer la commande 
+`$ electron-packager <sourcedir> <appname> --platform=<platform> --arch=<arch> [optional flags...]`
+Exemple : `$ electron-packager . --all` buildera pour toutes les plate-formes disponibles (linux, mac, windows, en x32 et x64)
 
 TODO : Trouver un meilleur moyen de build sans avoir a commenter des trucs...
