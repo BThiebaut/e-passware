@@ -1,6 +1,6 @@
 # e-passware
 
-Un petit gestionnaire de mot de passe en electron
+Un petit gestionnaire de mot de passe avec electronJS
 
 ## Installation
 
