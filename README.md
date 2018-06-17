@@ -31,7 +31,7 @@ $ npm start
   - commenter toutes les références à client
   
 * Dans app/views : 
-  -Supprimer les lignes contenant
+  - Supprimer les lignes contenant
   ```
   <!-- build:remove -->
   <!-- Connect to server process -->
